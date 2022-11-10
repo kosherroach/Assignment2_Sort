@@ -1,0 +1,14 @@
+4
+2020,GreatToiletPaperShortage   
+1839,Sutter'sFortfounded
+1846,BearFlagRevolt
+1947,SacramentoStatefounded 
+1977,StarWarswasborn
+2017,StarWarsfranchisealmostdestroyed
+1964,Buffalowingsinvented
+1783,UnitedStatesConstitutionenacted
+1850,CaliforniajoinstheUnitedStates
+1848,GoldRushbegins 
+1776,AmericanRevolution
+1980,Pacmanwasreleased
+1953,CheeseWhizwasinvented(NachoErabegan)
